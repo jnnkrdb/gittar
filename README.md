@@ -1,3 +1,4 @@
 # Gittar
 
-Create Tar files and push them to a github repository.
+Contains a few packages:
+- git
